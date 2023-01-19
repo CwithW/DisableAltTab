@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MiuiPadMeta</string>
+    <string name="app_name">DisableAltTab</string>
     <string name="xposed_desc">A Xposed module to disable Alt-Tab hotkey for generic android devices.</string>
 </resources>

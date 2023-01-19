@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "pub.chara.disablealttab"
-        minSdk = 30
+        minSdk = 24
         targetSdk = 32
         versionCode = 1
         versionName = "1"
