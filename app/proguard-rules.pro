@@ -1,0 +1,1 @@
+-keep class pub.chara.disablealttab.MainHook
