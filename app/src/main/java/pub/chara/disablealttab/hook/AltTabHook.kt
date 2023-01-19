@@ -20,9 +20,9 @@ object AltTabHook : BaseHook() {
                     }
                 }
             }
-            XposedBridge.log("MiuiPadMeta: AltTabHook success!")
+            XposedBridge.log("DisableAltTab: AltTabHook success!")
         } catch (e: Throwable) {
-            XposedBridge.log("MiuiPadMeta: AltTabHook failed!")
+            XposedBridge.log("DisableAltTab: AltTabHook failed!")
             XposedBridge.log(e)
         }
     }
